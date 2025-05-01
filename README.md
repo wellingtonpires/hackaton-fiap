@@ -1,6 +1,6 @@
 ![FIAPCAR](https://github.com/user-attachments/assets/c5ce03c8-74d7-4296-a76a-10e2d108fa5f)
 
-# FASE 5 - FIAPCAR AUTOMÓVEIS
+# HACKATON - FIAPCAR AUTOMÓVEIS
 
 ### SOBRE:
 
@@ -8,7 +8,7 @@ Backend para uma plataforma para revenda de veículos, implementada utilizando G
 
 ### COMO TESTAR:
 
-Importar o arquivo 'Sub Fase 5_FIAPCAR.postman_collection.json' para o Postman.
+Importar o arquivo 'HACKATON_FIAPCAR.postman_collection.json' para o Postman.
 
 Para utilizar as APIs, é necessário cadastrar um usuário na API '/usuario/cadastra-usuario' e em seguida gerar um token jwt utilizando a API '/usuario/cria-token?login=LOGINUSUARIO&senha=SENHAUSUARIO', preenchendo o login e senha com os dados do usuário criado anteriormente.
 
